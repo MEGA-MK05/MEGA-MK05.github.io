@@ -1,15 +1,14 @@
-title: example.com
+title: kmg.com
 description: "Satellite - jekyll blog theme"
 logo_img: "/assets/img/favicon.webp"
-profile_img: "/assets/img/profile.webp"
+profile_img: "https://i.namu.wiki/i/1jHABtbEv6mIPFMuJWyJX8dF8mr6-mBHzLK1ZI-Qn7ZmAfu2BAb3bGpMhUdsh767wrem5U3yiwE6qB2G_KuhCC4eYmJ2JNQVjnHX5NMG4ZHltDcBykgpg7Uajzu_1lhdwhTWRhUBIGQE23l0_e9Fv3-HczamWtkEo3dHAdeBBDY.webp"
 
 # Social Links
-email: example@gmail.com
-github_username: github
-twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+email: prcsc05@gmail.com
+github_username: kdt-kmg
+instagram_username: kimmingyu0515
+linkedin_username: x
+
 
 # External API
 giscus_repo: "byanko55/jekyll-theme-satellite"
