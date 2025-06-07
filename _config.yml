@@ -10,12 +10,13 @@ instagram_username: kimmingyu0515
 linkedin_username: x
 
 
-# External API
-giscus_repo: "byanko55/jekyll-theme-satellite"
-giscus_repoId: "R_kgDOJ6fqWg"
-giscus_category: "Q&A"
-giscus_categoryId: "DIC_kwDOJ6fqWs4Cc7p7"
-goatcounter_code: byanko77
+# External API 
+# giscus add 1-4
+data-repo="kdt-kmg/kdt-kmg.github.io"
+data-repo-id="R_kgDOO3ehrA"
+data-category="Q&A"
+data-category-id="DIC_kwDOO3ehrM4CrJZE"
+goatcounter_code: kmg
 google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
