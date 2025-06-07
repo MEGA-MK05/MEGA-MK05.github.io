@@ -5,19 +5,17 @@ profile_img: "https://i.namu.wiki/i/1jHABtbEv6mIPFMuJWyJX8dF8mr6-mBHzLK1ZI-Qn7Zm
 
 # Social Links
 email: prcsc05@gmail.com
-github_username: kdt-kmg
+github_username: MEGA-MK05
 instagram_username: kimmingyu0515
-linkedin_username: x
+linkedin_username: 
 
 
 # External API 
-# giscus add 1-4
-data-repo="MEGA-MK05/MEGA-MK05.github.io"
-data-repo-id="R_kgDOO3ehrA"
-data-category="Q&A"
-data-category-id="DIC_kwDOO3ehrM4CrJZE"
+giscus_repo: "MEGA-MK05/MEGA-MK05.github.io"
+giscus_repold: "R_kgDOO3ehrA"
+giscus_category: "Q&A"
+giscus_categoryId: "DIC_kwDOO3ehrM4CrJZE"
 goatcounter_code:"https://megamk.goatcounter.com/count"
-async src="//gc.zgo.at/count.js"></script>
 google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
