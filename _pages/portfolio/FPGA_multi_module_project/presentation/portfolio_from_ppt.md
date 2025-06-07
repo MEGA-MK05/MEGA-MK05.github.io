@@ -1,6 +1,18 @@
-# 나의 포트폴리오 (PPT 슬라이드)
+---
+title: "presentation"
+tags:
+    - FPGA
+    - vivado 2020.2
+    - basys3
+    - dht11
+    - hc-sr04
+    - 7-segment
+    - uart+fifo
+date: "2025-06-07"
+thumbnail: "https://www.amd.com/content/dam/amd/en/images/products/boards/2410750-artix-7-xc7a35t-board-product.jpg"
+bookmark: true
+---
 
-이 포트폴리오는 PPT 슬라이드를 이미지로 변환하여 구성되었습니다.
 
 ---
 
