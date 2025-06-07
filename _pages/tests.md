@@ -7,8 +7,8 @@ tags:
     - user manual
     - markdown
     - writing format
-date: "2023-09-05"
-thumbnail: 
+date: "2025-06-07"
+thumbnail: "https://www.amd.com/content/dam/amd/en/images/products/boards/2410750-artix-7-xc7a35t-board-product.jpg"
 bookmark: true
 ---
 
