@@ -15,7 +15,7 @@ giscus_repo: "MEGA-MK05/MEGA-MK05.github.io"
 giscus_repold: "R_kgDOO3ehrA"
 giscus_category: "Q&A"
 giscus_categoryId: "DIC_kwDOO3ehrM4CrJZE"
-goatcounter_code:"https://megamk.goatcounter.com/count"
+goatcounter_code: "https://megamk.goatcounter.com/count"
 google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
