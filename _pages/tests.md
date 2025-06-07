@@ -1,3 +1,21 @@
+
+
+
+---
+title: "테스트 파일 확인용"
+tags:
+    - user manual
+    - markdown
+    - writing format
+date: "2023-09-05"
+thumbnail: 
+bookmark: true
+---
+
+
+
+
+
 # 안녕하세요! GitHub 블로그 테스트 포스트입니다.
 
 이 포스트는 GitHub 블로그에 마크다운 파일을 업로드했을 때 어떻게 표시되는지 확인하기 위한 **테스트 목적**으로 작성되었습니다.
