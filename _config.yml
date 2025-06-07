@@ -16,7 +16,8 @@ data-repo="MEGA-MK05/MEGA-MK05.github.io"
 data-repo-id="R_kgDOO3ehrA"
 data-category="Q&A"
 data-category-id="DIC_kwDOO3ehrM4CrJZE"
-goatcounter_code: kmg
+goatcounter_code:"https://megamk.goatcounter.com/count"
+async src="//gc.zgo.at/count.js"></script>
 google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
