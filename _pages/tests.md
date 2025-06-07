@@ -1,6 +1,3 @@
-
-
-
 ---
 title: "테스트 파일 확인용"
 tags:
@@ -11,7 +8,6 @@ date: "2025-06-07"
 thumbnail: "https://www.amd.com/content/dam/amd/en/images/products/boards/2410750-artix-7-xc7a35t-board-product.jpg"
 bookmark: true
 ---
-
 
 
 
