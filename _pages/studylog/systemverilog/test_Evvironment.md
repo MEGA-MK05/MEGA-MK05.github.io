@@ -25,7 +25,7 @@ SystemVerilog에는 데이터를 효율적으로 저장하고 관리할 수 있�
 
 
 
-### FIXED-SIZE Arrays
+# FIXED-SIZE Arrays
 ---
 
 
@@ -50,7 +50,7 @@ SystemVerilog에는 데이터를 효율적으로 저장하고 관리할 수 있�
 따라서 `c`는 `2 x 3` 형태의 2차원 배열이며, 각 칸에는 4비트 벡터 값이 들어갑니다. 이미지의 ```[[3,7,1],[5,1,9]]``` 는 이 2차원 배열의 값들을 초기화하는 것으로, `c[0]`에 `{3,7,1}`이, `c[1]`에 `{5,1,9}`가 할당되는 것을 의미합니다.
 
 
-### Dynamic Arrays
+# Dynamic Arrays
 ---
 
 ![alt text](/_pages/studylog/systemverilog/test_environment/data-arrays-Dynami Arrays.jpg)
@@ -91,7 +91,7 @@ type logic의 default value가 x라서 data_array를
 ID[200] <= ID[100]이 들어갈 경우에 나머지 값들이 전부 x로 정해져버린다. 
 
 
-### Queues
+# Queues
 ---
 
 ![alt text](/_pages/studylog/systemverilog/test_environment/Queues.jpg)
@@ -121,7 +121,7 @@ stack과 비슷한 구조이고 bound를 쓰지 않는다면 unbound,
 선언한 뒤에 [arr].insert같은 함수의 형태로 배열을 쌓을 수 있다.
 
 
-### associative ARR
+# associative ARR
 ---
 
 ![alt text](/_pages/studylog/systemverilog/test_environment/associative_arr.jpg)
