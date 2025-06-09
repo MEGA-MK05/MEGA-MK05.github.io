@@ -18,7 +18,7 @@ SystemVerilog에는 데이터를 효율적으로 저장하고 관리할 수 있�
 2. Dynamic Arrays (동적 배열)
 3. Queues (큐)
 4. Associative Arrays (연관 배열)
-5. 
+
 **Fixed-size Arrays, Dynamic Arrays, Queues (1, 2, 3번)**는 데이터가 메모리에 연속적으로 할당되는 경향이 있어요. 그래서 메모리 관리가 비교적 쉽고 접근 속도가 빠르죠. 하지만 Fixed-size Arrays처럼 크기가 미리 정해져 있으면, 실제 데이터 사용량보다 많은 메모리를 차지할 수도 있습니다.
 
 반면, **Associative Arrays (4번)**는 데이터가 메모리에 산발적으로 할당돼요. 이 때문에 관리가 조금 더 복잡할 수 있지만, 필요한 부분에만 메모리를 할당해서 메모리 사용량을 훨씬 절약할 수 있다는 큰 장점이 있습니다.
