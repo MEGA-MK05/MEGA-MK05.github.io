@@ -34,6 +34,8 @@ SystemVerilog에는 데이터를 효율적으로 저장하고 관리할 수 있�
 
 ![alt text](/_pages/studylog/systemverilog/test_environment/data_arrays-fix.jpg)
 
+---
+
 **선언 형태:**
 `data_type [vector_width] array_name [dimension1_range][dimension2_range]...;`
 
@@ -57,6 +59,8 @@ SystemVerilog에는 데이터를 효율적으로 저장하고 관리할 수 있�
 ---
 
 ![alt text](/_pages/studylog/systemverilog/test_environment/data-arrays-Dynami Arrays.jpg)
+
+---
 
 **Dynamic Arrays (동적 배열)**는 이름처럼 런타임에 배열의 크기를 자유롭게 조절할 수 있는 유연한 배열이에요. Fixed-size Arrays와 달리 선언 시에는 크기를 지정하지 않습니다.
 
@@ -98,6 +102,8 @@ ID[200] <= ID[100]이 들어갈 경우에 나머지 값들이 전부 x로 정해
 ---
 
 ![alt text](/_pages/studylog/systemverilog/test_environment/Queues.jpg)
+
+---
 **Queues (큐)**는 SystemVerilog에서 제공하는 가변 길이의 순서 있는 리스트예요. 데이터를 한쪽 끝(`push_back()`)에서 추가하고 다른 쪽 끝(`pop_front()`)에서 제거하는 방식(FIFO: First-In, First-Out)으로 동작하는 자료구조입니다. 스택(Stack)처럼 한쪽 끝에서만 추가/제거(`push_front()`, `pop_back()`)도 가능해서 매우 유연하게 사용할 수 있습니다.
 
 **선언 형태:**
@@ -128,6 +134,9 @@ stack과 비슷한 구조이고 bound를 쓰지 않는다면 unbound,
 ---
 
 ![alt text](/_pages/studylog/systemverilog/test_environment/associative_arr.jpg)
+
+
+---
 
 **Associative** **Arrays** (연관 배열)는 "결합 배열"이라고도 불리며, 일반적인 배열과 달리 순차적인 정수 인덱스가 아닌, **사용자가 정의한 키(key)를 사용하여 데이터에 접근**하는 방식이에요. 해시 맵(Hash Map)이나 딕셔너리(Dictionary)와 유사한 개념이라고 볼 수 있습니다.
 
