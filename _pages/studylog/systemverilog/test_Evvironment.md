@@ -57,8 +57,7 @@ SystemVerilog에는 데이터를 효율적으로 저장하고 관리할 수 있�
 
 # Dynamic Arrays
 ---
-
-![alttext2](/_pages/studylog/systemverilog/test_environment/data-arrays-Dynami Arrays.jpg)
+![alttext2](_pages/studylog/systemverilog/test_environment/data-arrays-Dynami Arrays.jpg)
 
 ---
 
