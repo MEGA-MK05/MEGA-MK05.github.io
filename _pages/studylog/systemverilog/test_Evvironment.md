@@ -32,7 +32,7 @@ SystemVerilog에는 데이터를 효율적으로 저장하고 관리할 수 있�
 ---
 
 
-![alt text1](/_pages/studylog/systemverilog/test_environment/data_arrays-fix.jpg)
+![alttext1](/_pages/studylog/systemverilog/test_environment/data_arrays-fix.jpg)
 
 ---
 
@@ -58,7 +58,7 @@ SystemVerilog에는 데이터를 효율적으로 저장하고 관리할 수 있�
 # Dynamic Arrays
 ---
 
-![alt text2](/_pages/studylog/systemverilog/test_environment/data-arrays-Dynami Arrays.jpg)
+![alttext2](/_pages/studylog/systemverilog/test_environment/data-arrays-Dynami Arrays.jpg)
 
 ---
 
@@ -101,7 +101,7 @@ ID[200] <= ID[100]이 들어갈 경우에 나머지 값들이 전부 x로 정해
 # Queues
 ---
 
-![alt text3](/_pages/studylog/systemverilog/test_environment/Queues.jpg)
+![alttext3](/_pages/studylog/systemverilog/test_environment/Queues.jpg)
 
 ---
 **Queues (큐)**는 SystemVerilog에서 제공하는 가변 길이의 순서 있는 리스트예요. 데이터를 한쪽 끝(`push_back()`)에서 추가하고 다른 쪽 끝(`pop_front()`)에서 제거하는 방식(FIFO: First-In, First-Out)으로 동작하는 자료구조입니다. 스택(Stack)처럼 한쪽 끝에서만 추가/제거(`push_front()`, `pop_back()`)도 가능해서 매우 유연하게 사용할 수 있습니다.
@@ -133,7 +133,7 @@ stack과 비슷한 구조이고 bound를 쓰지 않는다면 unbound,
 # associative ARR
 ---
 
-![alt text4](/_pages/studylog/systemverilog/test_environment/associative_arr.jpg)
+![alttext4](/_pages/studylog/systemverilog/test_environment/associative_arr.jpg)
 
 
 ---
