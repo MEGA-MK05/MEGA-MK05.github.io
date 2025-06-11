@@ -1,3 +1,15 @@
+---
+title: "language basics: class"
+tags:
+    - testbench
+    - systemverilog
+    -  class
+date: "2025-06-11"
+thumbnail: ""
+bookmark: true
+---
+
+
 # `CLASS`
 
 ![alt text](/FPGA_multi_asset/0610 sysverilog_img/best1_class.jpgcomparertl.jpg)
