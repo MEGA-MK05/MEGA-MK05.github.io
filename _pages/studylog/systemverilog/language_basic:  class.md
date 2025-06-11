@@ -12,7 +12,7 @@ bookmark: true
 
 # CLASS
 
-![alt text](/FPGA_multi_asset/0610 sysverilog_img/best1_class.jpg)
+![alt text](/FPGA_multi_asset/0610 sysverilog_img/comparertl.jpg)
 
 `structure`는 `RTL`과 유사한 점이 많습니다.
 
@@ -66,7 +66,7 @@ bookmark: true
 <br>
 
 
-![alt text](/FPGA_multi_asset/0610 sysverilog_img/new_class-1.jpg)
+![alt text](/FPGA_multi_asset/0610 sysverilog_img/new_class.jpg)
 
 
 
