@@ -10,9 +10,9 @@ bookmark: true
 ---
 
 
-# `CLASS`
+# CLASS
 
-![alt text](/FPGA_multi_asset/0610 sysverilog_img/best1_class.jpgcomparertl.jpg)
+![alt text](/FPGA_multi_asset/0610 sysverilog_img/best1_class.jpg)
 
 `structure`는 `RTL`과 유사한 점이 많습니다.
 
@@ -24,7 +24,7 @@ bookmark: true
 
 ![alt text](/FPGA_multi_asset/0610 sysverilog_img/class_ex.jpg)
 
----
+
 
 다음은 객체 지향(`OOP`) `class`의 예시 사진입니다.
 
@@ -35,7 +35,7 @@ bookmark: true
 <br>
 <br>
 
-# `Why use class`
+# Why use class 
 
 ![alt text](/FPGA_multi_asset/0610 sysverilog_img/why_class.jpg)
 
@@ -51,11 +51,11 @@ bookmark: true
 
 <br>
 
-# `new(); 로 초기화 하는 이유`
+# new(); 로 초기화 하는 이유
 
 ![alt text](/FPGA_multi_asset/0610 sysverilog_img/constructing.jpg)
 
----
+
 
 `OOP object`는 `class` 정의에 의해 만들어집니다.
 
@@ -68,7 +68,7 @@ bookmark: true
 
 ![alt text](/FPGA_multi_asset/0610 sysverilog_img/new_class-1.jpg)
 
----
+
 
 그리고 `new();`의 경우에는 `return`이 없는 `type`의 선언입니다. 실행 즉시 `객체에 동적 메모리를 할당하기 때문에` 기존의 `.`을 활용해서 불러올 경우 `access`하지 못한다는 뜻입니다.
 
@@ -84,7 +84,7 @@ bookmark: true
  `class members` 중에서 가장 가깝게 `instance`된 `object`를 가리킵니다.
  위 사진에서처럼 `this`를 사용한다면 가장 최근에 선언된 `sa`를 가리키고, 우측 항에 존재하는 `sa`는 `function`의 `arguments`가 들어가게 됩니다.
 
-# `Static access`
+# Static access
 
 ```systemverilog
 program automatic test;
@@ -173,7 +173,7 @@ endprogram: test
 주의해야 할 점은 `task` 이후에 `class`에 첨부할 `method`이기 때문에 `double(::)`을 통해 연관 지어 주는 것이 좋습니다.
 ![alt text](/FPGA_multi_asset/0610 sysverilog_img/quiz2_class.jpg)
 
-마지막으로 간단하게 문제를 하나 풀어보자면, `$display`를 통해 출력될 `o1.a`, `o2.a`를 유추해보자.
+마지막으로 간단하게 문제를 하나 풀어보자면, `$display`를 통해 출력될 `o1.a`, `o2.a`를 구하는 문제입니다.
 
  `class`는 단순하게 `int a`만을 선언한다.
 
