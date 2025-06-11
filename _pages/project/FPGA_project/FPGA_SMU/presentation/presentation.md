@@ -13,12 +13,7 @@ thumbnail: "https://www.amd.com/content/dam/amd/en/images/products/boards/241075
 bookmark: true
 ---
 
-### ***FPGA Sensor&Module&Utility_Unit***
-
-
-
-
-
+# ***FPGA Sensor&Module&Utility_Unit***
 
 
 
