@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/58e52369-34fb-4105-8c3b-1411a1b87b5e)---
+---
 title: "presentation"
 tags:
     - coretex_m3
