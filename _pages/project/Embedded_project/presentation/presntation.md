@@ -22,82 +22,82 @@ cortex m3 기반으로 C 언어를 통해 주변 기기를 이어, 게임을 만
 ---
 
 ## 슬라이드 1
-![포트폴리오 슬라이드 1](/FPGA_multi_asset/emb_img/슬라이드1.jpg)
+![포트폴리오 슬라이드 1](/FPGA_multi_asset/emb_img/슬라이드1.JPG)
 
 ---
 
 ## 슬라이드 2
-![포트폴리오 슬라이드 2](/FPGA_multi_asset/emb_img/슬라이드2.jpg)
+![포트폴리오 슬라이드 2](/FPGA_multi_asset/emb_img/슬라이드2.JPG)
 
 ---
 
 ## 슬라이드 3
-![포트폴리오 슬라이드 3](/FPGA_multi_asset/emb_img/슬라이드3.jpg)
+![포트폴리오 슬라이드 3](/FPGA_multi_asset/emb_img/슬라이드3.JPG)
 
 ---
 
 ## 슬라이드 4
-![포트폴리오 슬라이드 4](/FPGA_multi_asset/emb_img/슬라이드4.jpg)
+![포트폴리오 슬라이드 4](/FPGA_multi_asset/emb_img/슬라이드4.JPG)
 
 ---
 
 ## 슬라이드 5
-![포트폴리오 슬라이드 5](/FPGA_multi_asset/emb_img/슬라이드5.jpg)
+![포트폴리오 슬라이드 5](/FPGA_multi_asset/emb_img/슬라이드5.JPG)
 
 ---
 
 ## 슬라이드 6
-![포트폴리오 슬라이드 6](/FPGA_multi_asset/emb_img/슬라이드6.jpg)
+![포트폴리오 슬라이드 6](/FPGA_multi_asset/emb_img/슬라이드6.JPG)
 
 ---
 
 ## 슬라이드 7
-![포트폴리오 슬라이드 7](/FPGA_multi_asset/emb_img/슬라이드7.jpg)
+![포트폴리오 슬라이드 7](/FPGA_multi_asset/emb_img/슬라이드7.JPG)
 
 ---
 
 ## 슬라이드 8
-![포트폴리오 슬라이드 8](/FPGA_multi_asset/emb_img/슬라이드8.jpg)
+![포트폴리오 슬라이드 8](/FPGA_multi_asset/emb_img/슬라이드8.JPG)
 
 ---
 
 ## 슬라이드 9
-![포트폴리오 슬라이드 9](/FPGA_multi_asset/emb_img/슬라이드9.jpg)
+![포트폴리오 슬라이드 9](/FPGA_multi_asset/emb_img/슬라이드9.JPG)
 
 ---
 
 ## 슬라이드 10
-![포트폴리오 슬라이드 10](/FPGA_multi_asset/emb_img/슬라이드10.jpg)
+![포트폴리오 슬라이드 10](/FPGA_multi_asset/emb_img/슬라이드10.JPG)
 
 ---
 
 ## 슬라이드 11
-![포트폴리오 슬라이드 11](/FPGA_multi_asset/emb_img/슬라이드11.jpg)
+![포트폴리오 슬라이드 11](/FPGA_multi_asset/emb_img/슬라이드11.JPG)
 
 ---
 
 ## 슬라이드 12
-![포트폴리오 슬라이드 12](/FPGA_multi_asset/emb_img/슬라이드12.jpg)
+![포트폴리오 슬라이드 12](/FPGA_multi_asset/emb_img/슬라이드12.JPG)
 
 ---
 
 ## 슬라이드 13
-![포트폴리오 슬라이드 13](/FPGA_multi_asset/emb_img/슬라이드13.jpg)
+![포트폴리오 슬라이드 13](/FPGA_multi_asset/emb_img/슬라이드13.JPG)
 
 ---
 
 ## 슬라이드 14
-![포트폴리오 슬라이드 14](/FPGA_multi_asset/emb_img/슬라이드14.jpg)
+![포트폴리오 슬라이드 14](/FPGA_multi_asset/emb_img/슬라이드14.JPG)
 
 ---
 
 ## 슬라이드 15
-![포트폴리오 슬라이드 15](/FPGA_multi_asset/emb_img/슬라이드15.jpg)
+![포트폴리오 슬라이드 15](/FPGA_multi_asset/emb_img/슬라이드15.JPG)
 
 ---
 
 ## 슬라이드 16
-![포트폴리오 슬라이드 16](/FPGA_multi_asset/emb_img/슬라이드16.jpg)
+![포트폴리오 슬라이드 16](/FPGA_multi_asset/emb_img/슬라이드16.JPG)
 <수정 필요 >
 ---
 
