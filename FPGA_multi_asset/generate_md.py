@@ -2,13 +2,13 @@ import os
 
 # GitHub 저장소에 이미지를 업로드할 경로 (예: assets/portfolio_slides/)
 # 실제 GitHub 경로와 동일하게 맞춰주세요.
-IMAGE_BASE_PATH = "MEGA-MK05.github.io/FPGA_multi_asset/FPGA_multi_module_img/project_FPGA multi module_8조"
+IMAGE_BASE_PATH = "/FPGA_multi_asset/emb_img/"
 # 이미지 파일 접두사 (예: 슬라이드, slide). '슬라이드' 다음에 숫자가 바로 붙는 경우
 IMAGE_PREFIX = "슬라이드" 
 # 이미지 파일 확장자 (예: png, jpg)
 IMAGE_EXTENSION = "png" 
 # 총 슬라이드 개수
-NUM_SLIDES = 57 # PPT가 100장이므로 100으로 설정
+NUM_SLIDES = 16 # PPT가 100장이므로 100으로 설정
 
 output_filename = "portfolio_from_ppt.md"
 
