@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/58e52369-34fb-4105-8c3b-1411a1b87b5e)---
 title: "presentation"
 tags:
     - coretex_m3
@@ -10,7 +10,7 @@ tags:
     - CMSIS
     
 date: "2025-06-12"
-thumbnail: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.arm.com%2FProcessors%2FCortex-M3&psig=AOvVaw1ivGlGzeF1ZtzgZlU7FZ02&ust=1749771909522000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiv2LvG6o0DFQAAAAAdAAAAABAK"
+thumbnail: "https://www.google.com/imgres?q=cortex%20m3&imgurl=https%3A%2F%2Fdeveloper.arm.com%2F-%2Fjssmedia%2FArm%2520Developer%2520Community%2FImages%2FBlock%2520Diagrams%2FCortex-M%2520Processor%2FCortex-M3.png%3Fh%3D300%26iar%3D0%26w%3D300%26rev%3Dbf6d04e909524f959ba1cbf3ed94c394%26hash%3D75F825D1F12590F858204AE1C6E43FB9475FBD58&imgrefurl=https%3A%2F%2Fdeveloper.arm.com%2FProcessors%2FCortex-M3&docid=PHUaHKL72lZfxM&tbnid=Axa1jRxcyCtj7M&vet=12ahUKEwilgcrWzeqNAxXAb_UHHWC7ExoQM3oECBsQAA..i&w=897&h=897&hcb=2&ved=2ahUKEwilgcrWzeqNAxXAb_UHHWC7ExoQM3oECBsQAA"
 bookmark: true
 ---
 
