@@ -1,10 +1,11 @@
 ---
-title: "Function coverage"
+title: "synopsys"
 tags:
     - systemverilog
-    - class
-date: "2025-06-14"
-thumbnail: (MEGA-MK05.github.io/_pages/studylog/VLSI/0616synopsis/시놉시스컴파일러.png)
+    - simulation
+    - place and route
+date: "2025-06-16"
+thumbnail: "https://images.synopsys.com/is/image/synopsys/synopsys-purple-bkgd-logo-social%201?$social-post$"
 bookmark: true
 ---
 
@@ -19,11 +20,6 @@ bookmark: true
 
 * **라이브러리** 매니저에서 `file` -> `new` -> `laibrary`를 통해서 생성 가능합니다.
 
-<br>
-<br>
-
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -118,26 +114,26 @@ Ctrl + s: 저장 (save) - 작업 중인 디자인을 저장할 때 사용.
 직접적인 테스트 절차입니다.
 
 
-* 1.*prime wave form*을 검사하기 위해서 사용할 `model file`을 불러와줍니다.
+* *prime wave form*을 검사하기 위해서 사용할 `model file`을 불러와줍니다.
 
 
 ![alt text](set_analysis-1.png)
 
-* 2. 검사에서 `analysis type`은 dc로 지정되었고 `linear`하게 `0`에서 `1`의 범위를 쓸어 지나가며 테스트 결과를 출력합니다.
+* 검사에서 `analysis type`은 dc로 지정되었고 `linear`하게 `0`에서 `1`의 범위를 쓸어 지나가며 테스트 결과를 출력합니다.
 
 <br>
 
 ![alt text](시뮬레이션세팅-1.png)
 
-* 3. 시뮬레이션 세팅에서 엔진을 `primesim HSPICE`로 지정해 주었습니다.정확도는 3레벨로 지정하였습니다.
+* 시뮬레이션 세팅에서 엔진을 `primesim HSPICE`로 지정해 주었습니다.정확도는 3레벨로 지정하였습니다.
 
 ![alt text](<expression 설정.png>)
 
-* 4.`expression`의 경우에는 VIN과 VOUT을 지정 해두고 앞서 말한대로 DC 타입으로 설정해둡니다. 
+* `expression`의 경우에는 VIN과 VOUT을 지정 해두고 앞서 말한대로 DC 타입으로 설정해둡니다. 
 
 ![alt text](시뮬레이션실행-1.png)
 
-* 5. 앞선 과정이 전부 끝났다면 넷리스트를 만들며 테스트를 진행합니다.
+* 앞선 과정이 전부 끝났다면 넷리스트를 만들며 테스트를 진행합니다.
 
 <br>
 
