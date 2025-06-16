@@ -23,7 +23,8 @@ bookmark: true
 <br>
 <br>
 <br>
-<br>
+
+
 # 2. cell view 생성
 
 ![alt text](<f키 를눌러서 fullscreen-1.png>)
@@ -39,7 +40,7 @@ bookmark: true
 * x-> (10->5)
 * y-> (10->5)
 <br>
-<br>
+  
 # 3.소자 추가 및 
 
 다음으로 `add`를 통해 소자들을 추가할 수 있습니다.
