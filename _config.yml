@@ -1,0 +1,52 @@
+title: kmg.com
+description: "Satellite - jekyll blog theme"
+logo_img: "/assets/img/favicon.webp"
+profile_img: "https://i.namu.wiki/i/BfqybhJYa6eH0E1ebj7sSmduLn8GBdUv5Pfmx4RtOMFMPlk4-UNM0d7gb9Ayu-xkvXezd_SoiTtqpQsCKkzqqQ.webp"
+
+# Social Links
+email: prcsc05@gmail.com
+github_username: MEGA-MK05
+instagram_username: kimmingyu0515
+linkedin_username: 
+
+
+# External API 
+giscus_repo: "MEGA-MK05/MEGA-MK05.github.io"
+giscus_repold: "R_kgDOO3ehrA"
+giscus_category: "Q&A"
+giscus_categoryId: "DIC_kwDOO3ehrM4CrJZE"
+goatcounter_code: "https://megamk.goatcounter.com/count"
+google_analytics:
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
+baseurl:
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-loading-lazy
+
+exclude:
+  - docs/
+
+collections:
+  pages:
+    output: true
+    permalink: /:path.html
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      date: "1900-01-01"
+
+# Markdown newline activator 
+kramdown:
+  input: GFM
+  hard_wrap: true
