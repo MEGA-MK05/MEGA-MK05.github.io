@@ -3,8 +3,8 @@ title: "Function coverage"
 tags:
     - systemverilog
     - class
-date: "2025-06-14 
-thumbnail: MEGA-MK05.github.io/_pages/studylog/VLSI/0616synopsis/시놉시스컴파일러.png
+date: "2025-06-14"
+thumbnail: (MEGA-MK05.github.io/_pages/studylog/VLSI/0616synopsis/시놉시스컴파일러.png)
 bookmark: true
 ---
 
