@@ -6,7 +6,7 @@ tags:
     - place and route
     - CMOS design
 date: "2025-06-17"
-thumbnail: "(wallpaper.jpg)"
+thumbnail: "/assets/img/wallpaper.png"
 bookmark: true
 ---
 
