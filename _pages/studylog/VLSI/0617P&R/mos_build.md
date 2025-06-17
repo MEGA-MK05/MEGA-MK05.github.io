@@ -6,7 +6,7 @@ tags:
     - place and route
     - CMOS design
 date: "2025-06-17"
-thumbnail: "wallpaper.jpg"
+thumbnail: "![alt text](wallpaper.jpg)"
 bookmark: true
 ---
 
@@ -44,6 +44,17 @@ bookmark: true
 
 ![alt text](<simplified design rules-1.png>)
 
+해당 그림은 pmos와 nmos 사이의 관계를 나타낸다.
+주요 지켜야할 rule은
+1. metal 사이의 거리기 적당한가.
+2. diffusion 사이의 간격은 올바르게 유지되어 n-well이 겹치지 않았는가.
+3. 등등
 
 
+# Stick diagram 
 
+![alt text](stickdiagram-1.png)
+
+* 1. 출력에 기생 커패시턴스가 3개 물려있다.
+
+* 2. 출력에 기생 커패시턴스 2개가 물려있다.
