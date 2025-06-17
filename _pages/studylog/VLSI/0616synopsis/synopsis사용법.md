@@ -21,8 +21,7 @@ bookmark: true
 * **라이브러리** 매니저에서 `file` -> `new` -> `laibrary`를 통해서 생성 가능합니다.
 
 <br>
-<br>
-<br>
+
 
 
 # 2. cell view 생성
